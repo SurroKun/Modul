@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Sereg/CLionProjects/unt2321/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Sereg/CLionProjects/unt2321/cmake-build-debug/CMakeFiles/unt2321.dir
+/cygdrive/c/Users/Sereg/CLionProjects/unt2321/cmake-build-debug/CMakeFiles/edit_cache.dir

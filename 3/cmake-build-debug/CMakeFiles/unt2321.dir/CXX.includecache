@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Sereg/CLionProjects/unt2321/main.cpp
+iostream
+-
+iostream
+-
+vector
+-
+utility
+-
+algorithm
+-
+memory
+-
+
